@@ -1,0 +1,16 @@
+{
+  "name": "promises-and-rest-in-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app-promises.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
